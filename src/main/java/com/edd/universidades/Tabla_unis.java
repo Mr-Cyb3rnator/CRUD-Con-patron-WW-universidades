@@ -12,8 +12,10 @@ import javax.swing.JFrame;
 
 /**
  *
- * @author Josue
+ * @author Josue Figueroa
  */
+
+
 public class Tabla_unis extends javax.swing.JFrame {
 
     /**
